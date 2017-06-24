@@ -5,7 +5,7 @@
 개발 언어: C언어
 컴파일 방법: C언어 컴파일러 통해 컴파일한다.
 실행 방법: 컴파일  디버깅을 통해 프로그램을 실행한다.
-프로젝트 홈페이지 링크:
+프로젝트 홈페이지 링크:https://github.com/SangWonKo/termproject.github.io
 
 게임 소개
 
